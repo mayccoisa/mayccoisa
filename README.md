@@ -1,15 +1,5 @@
 # Seja bem vindo(a)
-Ola meu nome é Maycon Rocha, sou um UX Designer em uma empresa de atendimento omnichannel, moro em Curitiba-PR.
-Comecei a trabalhar com tecnologia em 2021 e desde então venho me aperfeiçoando minhas habilidades.
-
-Meus principais hobbies são:
-
-👨‍👨‍👦 Estudar o comportamento de pessoas com interfaces
-
-💻 Aprender sobre tecnologia
-
-🎮Jogar um game
-
+Ola meu nome é Maycon Rocha, sou Product Manager na WeON Omnichannel e atuo há 5 anos na área de produto.
 
 
 <div>
