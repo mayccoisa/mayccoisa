@@ -1,5 +1,6 @@
-# Seja bem vindo(a)
-Ola meu nome é Maycon Rocha, sou Product Manager na WeON Omnichannel e atuo há 5 anos na área de produto.
+# Minha trajetória é definida pela união entre a sensibilidade do Design e a objetividade dos Negócios. Como Product Manager, meu foco não é apenas gerenciar fluxos, mas arquitetar soluções onde utilizamos a Inteligência Artificial como motor para potencializar nossas entregas e a resolução de dores dos usuários com máxima eficiência.
+
+Acredito que um produto de sucesso é aquele que equilibra estética, usabilidade e viabilidade técnica para resolver problemas reais de forma inovadora. No meu trabalho atual, tenho liderado a implementação de funcionalidades de IA que vão além do hype porque elas otimizam processos e entregam valor direto ao usuário final e ao negócio. Trago meu background em Design para garantir que essa complexidade técnica seja traduzida em uma experiência fluida, garantindo que a tecnologia resulte sempre em impacto positivo para a sociedade e para os resultados da empresa.
 
 
 <div>
